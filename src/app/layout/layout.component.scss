@@ -24,6 +24,9 @@
     width: 160px;
     height: 100%;
     position: fixed;
+    padding-top: 20px;
+    top: 52px;
+    z-index: 1;
 }
 
 .sidenav a
@@ -34,3 +37,17 @@
     padding: 6px 8px 6px 16px;
     display: block;
 }
+
+.main
+{
+    padding: 0px 10px;
+    margin-left: 160px;
+}
+
+// @media only screen and (min-width: 400px) 
+// {
+//     .main
+//     {
+//         color: blue;
+//     }
+// }
