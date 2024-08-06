@@ -1,0 +1,36 @@
+.navs
+{
+    background-color: #333;
+    overflow: hidden;
+}
+
+.navs a
+{
+    float: left;
+    color: #f1f1f1;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav-right
+{
+    float: right;
+}
+
+.sidenav
+{
+    background-color: #333;
+    width: 160px;
+    height: 100%;
+    position: fixed;
+}
+
+.sidenav a
+{
+    color: #f1f1f1;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 6px 8px 6px 16px;
+    display: block;
+}
